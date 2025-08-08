@@ -20,10 +20,9 @@
             <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Link Terkait</h4>
                 <ul>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Halaman Utama</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="/">Halaman Utama</a></li>
                     <li><i class="bi bi-chevron-right"></i> <a href="#">Tentang Kami</a></li>
                     <li><i class="bi bi-chevron-right"></i> <a href="#">Layanan</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Product</a></li>
                 </ul>
             </div>
             <div class="col-lg-2 col-md-3 footer-links">
@@ -39,7 +38,7 @@
                 <h4>Sosial Media</h4>
                 <p>Berita menarik terkait Mykiss Soluctions Technology.</p>
                 <div class="social-links d-flex">
-                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.instagram.com/mykiss.asia/"><i class="bi bi-instagram"></i></a>
                     <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
             </div>
